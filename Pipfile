@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+web3 = "*"
+pycoingecko = "*"
+coinmarketcapapi = "*"
+redis = "*"
+fastapi = "*"
+uvicorn = "*"
+python-dotenv = "*"
+odmantic = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.10"
