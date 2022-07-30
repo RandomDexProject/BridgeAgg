@@ -1,0 +1,75 @@
+{
+  "56": {
+    "name": "BSC",
+    "RPC": "https://bsc-dataseed.binance.org/",
+    "explorer": "https://bscscan.com",
+    "value_address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "wrapped_address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "value_symbol": "BNB",
+    "value_name": "BNB",
+    "wrapped_name": "Wrapped BNB",
+    "wrapped_symbol": "WBNB",
+    "value_decimal": 18,
+    "redis_db": 1,
+    "router": "0xf9736ec3926703e85C843FC972BD89A7f8E827C0"
+  },
+
+  "250": {
+    "name": "FANTOM",
+    "RPC": "https://rpc.ftm.tools/",
+    "explorer": "https://ftmscan.com/",
+    "value_address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "wrapped_address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "value_name": "Fantom",
+    "wrapped_name": "Wrapped Fantom",
+    "value_symbol": "FTM",
+    "wrapped_symbol": "WFTM",
+    "value_decimal": 18,
+    "redis_db": 2,
+    "router": ""
+  },
+
+  "43114": {
+    "name": "AVALANCHE",
+    "RPC": "https://api.avax.network/ext/bc/C/rpc",
+    "explorer": "https://snowtrace.io/",
+    "value_address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "wrapped_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "value_name": "AVAX",
+    "wrapped_name": "Wrapped AVAX",
+    "value_symbol": "AVAX",
+    "wrapped_symbol": "WAVAX",
+    "value_decimal": 18,
+    "redis_db": 3,
+    "router": "0xf9736ec3926703e85C843FC972BD89A7f8E827C0"
+  },
+
+  "137": {
+    "name": "POLYGON",
+    "RPC": "https://polygon-rpc.com/",
+    "explorer": "https://polygonscan.com/",
+    "value_address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "wrapped_address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "value_name": "Matic",
+    "wrapped_name": "Wrapped Matic",
+    "value_symbol": "MATIC",
+    "wrapped_symbol": "WMATIC",
+    "value_decimal": 18,
+    "redis_db": 4,
+    "router": ""
+  },
+  "128": {
+    "name": "HECO",
+    "RPC": "https://bsc-dataseed.binance.org/",
+    "explorer": "https://scan.hecochain.com/",
+    "value_address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "wrapped_address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+    "value_name": "HT",
+    "wrapped_name": "Wrapped HT",
+    "value_symbol": "HT",
+    "wrapped_symbol": "WHT",
+    "value_decimal": 18,
+    "redis_db": 5,
+    "router": ""
+  }
+}
