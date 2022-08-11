@@ -12,9 +12,13 @@ fastapi = "*"
 uvicorn = "*"
 python-dotenv = "*"
 odmantic = "*"
+pydantic = "*"
+httpx = "*"
+astroid = "*"
 
 [dev-packages]
 autopep8 = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.10"
