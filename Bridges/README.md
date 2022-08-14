@@ -1,0 +1,33 @@
+## List of bridges:
+- Stargate 
+  - [!] both sushi and rango use it a lot
+- [O3Swap](https://o3swap.com/bridge)
+  - https://agg.o3swap.com/v1/tokens_all
+  - 
+- [xPolinate(Connext)](https://bridge.connext.network/)
+  - Liquidity providers, aka Routers, take a standard 0.05% fee over bridged amounts to reward them for providing liquidity, along with gas refunds to compensate for expenses they incur.
+  - Semi Contract Based
+  - Limited
+    - 14 tokens
+    - 17 chains
+  - Good for high volumes
+  - 
+- [EVODefi]((https://bridge.evodefi.com/))
+  - FEE Bridge comission: 0.25 USDT + 0.5%
+  - Is limited
+  - contract based 
+- [Potral](https://www.portalbridge.com/#/transfer)
+- 
+- [Allbridge](https://app.allbridge.io/)
+  - Contract Based
+  - [git](https://github.com/allbridge-io)
+  - Limited
+    - [SupportedTokens](https://docs.allbridge.io/allbridge-overview/networks-and-tokens)
+    - [FEE-list](https://docs.allbridge.io/allbridge-overview/bridge-fee)
+      - Fixed-Fee
+
+### Honorable Mentions (Using other bridges) 
+- [SushiSwap](https://sushi.com/swap) 
+  - (Stargate Under the hood)
+  - Can swap tokens ^^
+  - 
